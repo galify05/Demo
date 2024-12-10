@@ -1,0 +1,17 @@
+com\demoqa\tests\TooTipsTest.class
+com\demoqa\tests\bookStore\SearchBookTests.class
+com\demoqa\tests\lesson26\AutoCompleteTests.class
+com\demoqa\tests\SelectTests.class
+com\demoqa\tests\lesson25\LinksImagesTests.class
+com\demoqa\tests\MuneTest.class
+com\demoqa\tests\SliderTest.class
+com\demoqa\tests\IframeTests.class
+com\demoqa\tests\lesson25\JSExecutorTests.class
+com\demoqa\tests\lesson26\PracticeFormTest.class
+com\demoqa\tests\bookStore\LoginTest.class
+com\demoqa\tests\ButtonsTest.class
+com\demoqa\tests\DragDropTest.class
+com\demoqa\tests\NewWindowTests.class
+com\demoqa\tests\AlertsTests.class
+com\demoqa\tests\lesson26\TextBoxTest.class
+com\demoqa\tests\TestBase.class

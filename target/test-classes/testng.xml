@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Quick" verbose="1">
+    <test name="Quick1">
+        <classes>
+            <class name="com.demoqa.tests.bookStore.LoginTest"/>
+            <class name="com.demoqa.tests.bookStore.SearchBookTests"/>
+        </classes>
+    </test>
+</suite>
